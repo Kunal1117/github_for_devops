@@ -27,5 +27,62 @@
    90  git remote set-url origin https://github.com/Kunal1117/github_for_devops.git
    91  git remote -v
    92  git push origin master
+   124  git branch
+  125  git branch dev
+  126  git branch
+  127  git switch dev
+  128  git branch
+  129  vi dev_file.txt
+  130  ls
+  131  git status
+  132  git add dev_file.txt
+  133  git commit -m "Added dev file"
+  134  git status
+  135  git switch master
+  136  ls
+  137  git log oneline
+  138  git log --oneline
+  139  git status
+  140  git checkout dev
+  141  git log --oneline
+  142  git push origin dev
+  143  git switch master
+  144  ls
+  145  git pull origin master
+  146  ls
+  147  git branch
+  148  git branch dev_2
+  149  git branch
+  150  git switch dev_2
+  151  ls
+  152  vi own_file.txt
+  153  ls
+  154  git status
+  155  git add own_file.txt
+  156  git commit -m "second file for code push"
+  157  git status
+  158  git branch
+  159  git log --oneline
+  160  git switch master
+  161  git log --online
+  162  git log --oneline
+  163  git switch dev
+  164  git log --oneline
+  165  git switch dev_2
+  166  git push origin dev_2
+  167  git pull origin master
+  168  ls
+  169  git switch master
+  170  ls
+  171  git pull origin master
+  172  ls
+  173  cat own_file.txt
+  174  git switch dev
+  175  ls
+  176  git pull origini master
+  177  git pull origin master
+  178  ls
+  179  history
+
 
 New git commands will be added soon..
