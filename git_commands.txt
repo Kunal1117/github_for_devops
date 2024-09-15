@@ -1,0 +1,24 @@
+       mkdir github_for_devops
+   62  cd github_for_devops/
+   63  vi testing.py
+   64  cat testing.py
+   65  rm testing.py
+   66  ls
+   67  git init
+   68  vi testing.py
+   69  ls
+   70  git status
+   71  git add testing.py
+   72  git status
+   73  git rm --cached testing.py
+   74  git status
+   75  git add testing.py
+   76  git commit -m "Python file added"
+   77  git status
+   78  rm testing.py
+   79  git restore testing.py
+   80  ;s
+   81  ls
+   82  git status
+   83  history
+
