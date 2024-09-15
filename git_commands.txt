@@ -21,4 +21,10 @@
    81  ls
    82  git status
    83  history
+   87  git remote add origin https://github.com/Kunal1117/github_for_devops.git
+   88  remote -v
+   89  git remote -v
+   90  git remote set-url origin https://github.com/Kunal1117/github_for_devops.git
+   91  git remote -v
+   92  git push origin master
 
